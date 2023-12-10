@@ -1,0 +1,17 @@
+#column-image {
+    background-color: white;
+    text-align: center;
+}
+
+#col-im h3{
+    /* background-color: black; */
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 7px;
+    border-bottom: 10px solid #9a2018;
+    width: 120px;
+    margin-left: 23px;
+    
+
+}

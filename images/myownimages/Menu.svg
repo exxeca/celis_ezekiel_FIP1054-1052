@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="17" viewBox="0 0 23 17">
+  <g id="Menu" transform="translate(2.5 2.5)">
+    <line id="Line_1" data-name="Line 1" x2="8" transform="translate(3)" fill="none" stroke="red" stroke-linecap="round" stroke-width="5"/>
+    <line id="Line_1-2" data-name="Line 1" x2="13" transform="translate(5 6)" fill="none" stroke="red" stroke-linecap="round" stroke-width="5"/>
+    <path id="Path_39" data-name="Path 39" d="M0,0H13.191" transform="translate(0 12)" fill="none" stroke="red" stroke-linecap="round" stroke-width="5"/>
+  </g>
+</svg>
