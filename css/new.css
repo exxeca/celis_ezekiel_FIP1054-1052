@@ -1,0 +1,328 @@
+#food-menu-hero-con {
+    background: url(../images/CHEF1.jpeg) no-repeat;
+    height: 195px;
+    background-size: cover;
+ }
+
+ #food-menu-hero-heading-box {
+    align-self: end;
+ }
+ 
+
+ .food-menu {
+    margin-bottom: 0;
+    
+  }
+
+
+  .food-menu-items {
+    margin-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+/*  */
+
+
+ 
+ 
+ /* 6. ---Gourmet Dining--- */
+ 
+ 
+ /* 6. ---Food-menu--- */
+ 
+
+ 
+ #food-menu-hero-heading-box {
+    align-self: end;
+ }
+ 
+ 
+ 
+ #food-menu-text p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 22px;
+ }
+ 
+ 
+ 
+ .food-menu {
+    margin-bottom: 0;
+    
+  }
+ 
+  
+  .food-menu-items {
+    margin-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+ 
+ #food-menu-con {
+    background-color: #f4f4f4;
+    padding-top: 35px;
+    padding-bottom: 30px;
+ }
+ 
+ #food-menu-con h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+ }
+ 
+ #food-menu-con h2 span {
+    color: #9a2018;
+    font-size: 16px;
+ }
+ 
+ 
+ 
+ .food-menu-items  {
+    background: #ea1c1c;
+    padding: 20px;
+    font-size: 16px;
+   
+    color: white;
+ }
+ 
+ 
+ 
+ 
+ .food-menu-items ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+ }
+ 
+ .food-menu-items li {
+    padding: 8px 0;
+    border-bottom: 1px solid #9a2018;
+ }   
+ 
+ .food-menu-items a {
+    color: inherit;
+    font-size: 13px;
+ }
+ 
+ #food-menu-text-con {
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+ 
+ .food-menu-items{
+    margin-bottom: 25px;
+ }
+ 
+ .food-menu-items label i {
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+    transition: all .5s ease;
+ } 
+ 
+ 
+ 
+ .food-menu-items input, .menu-content {
+    display: none;
+ }
+ 
+ .food-menu-items input:checked ~ .menu-content {
+    display: block;
+ }
+ 
+ .food-menu-items input:checked ~ label i {
+    transform: rotate(90deg);
+ }
+ 
+ .fa-play {
+    font-size: 15px;
+    color: #626262;
+ }
+ 
+ .fa-rotate-90 {
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+ }
+ 
+ #faq-con {
+    background-color: #f4f4f4;
+    padding-top: 35px;
+    padding-bottom: 30px;
+ }
+ 
+ #faq-con h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+ }
+ 
+ #faq-con h2 span {
+    color: #9a2018;
+    font-size: 16px;
+ }
+ 
+ .faq-items {
+    margin-bottom: 16px;
+ }
+ 
+ .faq-items h3 {
+    background: #ffffff;
+    padding: 16px;
+    font-size: 16px;
+ }
+ 
+ .faq-items ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+ }
+ 
+ .faq-items li {
+    padding: 8px 0;
+    border-bottom: 1px solid #9a2018;
+ }   
+ 
+ .faq-items a {
+    color: inherit;
+    font-size: 13px;
+ }
+ 
+ #faq-text-con {
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+ 
+ #faq-list-group1 {
+    margin: 20px;
+ }
+ 
+ /* ---chef--- */
+ 
+ #chef-hero-con {
+    background: url(../images/chef.png) no-repeat;
+    height: 195px;
+ }
+ 
+ #chef-hero-heading-box {
+    align-self: end;
+ }
+ 
+ 
+ 
+ #chef-text p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 22px;
+ }
+ 
+ 
+ 
+ .wine-image {
+    float: left;
+    margin-right: 20px;
+    margin-top: 30px;
+ }
+ 
+ .wine-image-con h2 {
+    font-size: 14px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+ }
+ 
+ .wine-image-con p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 20px;
+ }
+ 
+ .wine-image-con a {
+    color: #707070;
+    font-size: 14px;
+ }
+ /* ---feedback--- */
+ 
+ #feedback-hero-con {
+    background: url(../images/feedback.png) no-repeat;
+    height: 195px;
+ }
+ 
+ #feedback-hero-heading-box {
+    align-self: end;
+ }
+ 
+ 
+ #feedback-text p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 22px;
+ }
+ 
+ 
+ 
+ 
+ /* 8. ---Footer--- */
+ 
+ #footer-hero {
+    background-image: url(../images/footer.jpg);
+     background-repeat: no-repeat;
+    color: #fff;
+    font-size: 12px;
+    margin-top: 40px;
+    padding-bottom: 80px;
+ }
+ 
+ #footer-hero h3 {
+    margin-top: 30px;
+    font-size: 28px;
+    margin-bottom: 16px;
+ }
+ 
+ #footer-privacy .line-seperator {
+    margin-top: 0px;
+ }
+ 
+ #footer-contact-info h3 {
+    font-size: 23px;
+ }
+ 
+ #footer-contact-info p {
+    margin-bottom: 20px;
+    line-height: 18px;
+    font-size: 11px;
+ }
+ 
+ 
+ 
+ /*Scrolling*/
+ 
+ #scroll-to-top-btn {
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 412px;
+    float: inline-end;
+    position: fixed;
+    top: 680px;
+  }
+  
+  #scroll-to-top-btn a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+ 
+ 
+ .fa-arrow-up {
+    color: #626262;
+    margin-right: 20px;
+    margin-left: 3px;
+    margin-bottom: 20px;
+ }
+ 
+ .fa-arrow-up:hover {
+    color: #9a2018;
+ }
+
+ 
+ 
